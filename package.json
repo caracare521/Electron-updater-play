@@ -32,7 +32,8 @@
     "gulp": "^3.8.11",
     "mocha": "^2.2.4",
     "proxyquire": "^1.4.0",
-    "sinon": "^1.14.1"
+    "sinon": "^1.14.1",
+    "faye": "~1.0.3"
   },
   "dependencies": {
     "electron-updater": "^0.0.x",

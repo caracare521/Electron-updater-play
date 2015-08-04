@@ -1,7 +1,7 @@
 {
-  "name": "electron-updater-sample",
-  "version": "1.0.0",
-  "description": "Sample application for the electron-updater project",
+  "name": "electron-updater-play-1",
+  "version": "1.1.2",
+  "description": "this is a play of sample application for the electron-updater project",
   "main": "main.js",
   "repository": {
     "type": "git",

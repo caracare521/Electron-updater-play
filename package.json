@@ -5,7 +5,7 @@
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/evolvelabs/electron-updater-sample.git"
+    "url": "git://github.com/caracare521/Electron-updater-play.git"
   },
   "scripts": {
     "test": "mocha",

@@ -33,7 +33,8 @@
     "mocha": "^2.2.4",
     "proxyquire": "^1.4.0",
     "sinon": "^1.14.1",
-    "faye": "~1.0.3"
+    "faye": "~1.0.3",
+    "alert": "~0.0.2"
   },
   "dependencies": {
     "electron-updater": "^0.0.x",
